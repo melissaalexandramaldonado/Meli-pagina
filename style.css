@@ -1,12 +1,19 @@
 * {
     font-family: Helvetica,Arial,sans-serif;
   }
+  .clase1 {
+      width: 500px;
+  }
+  .clase2 {
+    width: 100px;
+}
   
   nav ul {
     display: flex;
     list-style: none;
     justify-content: space-around;
     width: 70%;
+    background:pink;
   }
   
   nav a {
